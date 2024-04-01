@@ -1,0 +1,22 @@
+{
+  "name": "why-not-me",
+  "version": "1.0.0",
+  "description": "Takes two arguments (usually strings) and randomly chooses one, but always prints a sassy message about the other option not being chosen.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rupa-Rd/why-not-me-.git"
+  },
+  "keywords": [
+    "Names"
+  ],
+  "author": "Rupa-Rd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rupa-Rd/why-not-me-/issues"
+  },
+  "homepage": "https://github.com/Rupa-Rd/why-not-me-#readme"
+}
